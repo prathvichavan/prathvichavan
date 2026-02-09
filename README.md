@@ -3,7 +3,7 @@
 👋 Hi, I'm Prathviraj Chavan, a data-driven professional with a passion for analytics, visualization, and automation. I enjoy transforming complex datasets into clear, actionable insights.<br><br>
 🔹 Skills & Tools:<br>* Power BI – Interactive dashboards, reports, DAX basics & data modeling<br>* Python (Pandas, NumPy, Matplotlib, Seaborn) – Data analysis, preprocessing & visualization<br>* Machine Learning – Classification & regression models, model evaluation, data preparation<br>* Deep Learning – Fundamentals of neural networks, basic model implementation<br>* Natural Language Processing (NLP) – Text preprocessing, tokenization, basic text analysis<br>* Forecasting & Trend Analysis – Time-series based analysis and business insights using historical data<br>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 <br>💡 What I Work On:<br>* Building interactive data dashboards and reports using Power BI<br>* Analyzing datasets to identify trends, patterns, and insights<br>* Working on machine learning models for classification and prediction tasks<br>* Exploring deep learning fundamentals and neural network concepts<br>* Performing text analysis using basic NLP techniques<br>* Creating data-driven solutions for academic projects and real-world use cases<br><br>🚀 Let's Collaborate!<br>I love connecting with like-minded professionals. Feel free to explore my projects and reach out!
 
 
