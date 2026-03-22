@@ -7,20 +7,6 @@
 
 ---
 
-<!-- GLOWING DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4680-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-### 💫 Welcome to My Digital Universe 💫
-#### *Where Data Meets Innovation & Creativity Explodes*
-<!-- ANIMATED GRADIENT BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=prathvichavan&style=plastic&color=00D9FF&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/prathvichavan?style=plastic&color=00D9FF&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/prathvichavan?style=plastic&color=FFD700&label=Total+Stars)
-
-
----
-
 ## 🌐 **SOCIAL GALAXY** 🌐
 
 [![LinkedIn](https://img.shields.io/badge/▶_LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathvirajchavan)
@@ -264,6 +250,12 @@ Add it after Skills or Projects section
 ### **⭐ If you liked this profile, please give it a STAR! ⭐**
 
 ## **CREATED WITH ❤️ BY PRATHVIRAJ CHAVAN**
+#### *Where Data Meets Innovation & Creativity Explodes*
+<!-- ANIMATED GRADIENT BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=prathvichavan&style=plastic&color=00D9FF&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/prathvichavan?style=plastic&color=00D9FF&label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/prathvichavan?style=plastic&color=FFD700&label=Total+Stars)
+
 
 *Updated: March 2026 | Always Learning | Forever Growing*
 
