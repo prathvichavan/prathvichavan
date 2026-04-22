@@ -165,7 +165,7 @@ Add it after Skills or Projects section
 **Institution:** Sri Balaji University, Pune
 
 **Publication:** Proceedings of 5th International Conference on Sentiment Analysis and Deep Learning  
-📄 Pages: 100-107 | ISBN: 979-8-3315-6882-5 | Conference: ICSADL-2026
+📄 Pages: 100-107 | DOI: https://doi.org/10.1109/icsadl67539.2026.11452077  | Conference: ICSADL-2026
 
 **Key Achievements:**
 - ✨ Dual-model deep learning architecture (single & double-hand)
