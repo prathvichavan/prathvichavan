@@ -174,6 +174,46 @@ Add it after Skills or Projects section
 - ✨ Bridging traditional Indian classical dance with AI
 - ✨ Pioneering work in Cultural AI & Bharatanatyam preservation
 
+---
+
+### 🏥 Paper 2 — Risk-Aware Hierarchical Deep Learning Framework for Clinically-Aligned Skin Lesion Classification
+
+**Springer ICAMC-2026 Conference** | ✅ Published & Presented
+
+<table align="center">
+<tr>
+<td align="center">
+<h3>99.3%</h3>
+<p><strong>ROC-AUC (Internal)</strong></p>
+</td>
+<td align="center">
+<h3>97.2%</h3>
+<p><strong>Malignant Recall (Internal)</strong></p>
+</td>
+<td align="center">
+<h3>99.3%</h3>
+<p><strong>Malignant Recall (HAM10000)</strong></p>
+</td>
+<td align="center">
+<h3>2-Stage</h3>
+<p><strong>Hierarchical Architecture</strong></p>
+</td>
+</tr>
+</table>
+
+**Authors:** Prathviraj Chavan, Shubhi Upadhyay, Kritika Barange, Dr. Manisha M. More, Dr. Varsha Gidde
+
+**Institution:** Sri Balaji University, Pune
+
+**Publication:** Proceedings of 4th International Conference on Emerging Applications of AI, Machine Learning and Cybersecurity  
+📄 Paper No: 224 | ISBN: 978-81-987571-8-0 | Conference: ICAMC-2026 (7-8 May 2026)
+
+**Key Achievements:**
+- ✨ Two-stage hierarchical classification: malignancy screening → disease-specific classification
+- ✨ EfficientNet-B4 with risk-aware probability threshold optimization
+- ✨ Grad-CAM for clinical interpretability & explainability
+- ✨ Zero threshold re-tuning needed on external HAM10000 dataset
+- ✨ End-to-end deployment: FastAPI + React + TypeScript + Tailwind CSS
 </div>
 
 ---
@@ -257,7 +297,7 @@ Add it after Skills or Projects section
 ![GitHub Stars](https://img.shields.io/github/stars/prathvichavan?style=plastic&color=FFD700&label=Total+Stars)
 
 
-*Updated: March 2026 | Always Learning | Forever Growing*
+*Updated: June 2026 | Always Learning | Forever Growing*
 
 ---
 
